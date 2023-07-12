@@ -1,4 +1,4 @@
-# Landing Page de confeitaria
+# *Landing Page de confeitaria*
 
 # Sobre o projeto
 
