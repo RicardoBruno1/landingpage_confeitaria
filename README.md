@@ -7,6 +7,6 @@ Primeira versão do projeto feito do zero e responsivo baseado em uma landing pa
 Objetivo do projeto é composto por uma única página que visa transformar o seu visitante demonstrar interesse por seu produto ou serviço.
 
 # Tecnologias usadas
-HTML5
-CSS3
-SASS
+<li>HTML5</li>
+<li>CSS3</li>
+<li>SASS</li>
