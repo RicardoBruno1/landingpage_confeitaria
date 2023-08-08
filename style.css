@@ -93,7 +93,7 @@ i {
   content: "";
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(206, 171, 163, 0.1), #CEABA3), url("../assets/img2.jpeg");
+  background-image: linear-gradient(to bottom, rgba(206, 171, 163, 0.1), #CEABA3), url("./assets/img1.jpeg");
   top: 0;
   left: 0;
   width: 100%;
@@ -101,7 +101,7 @@ i {
   z-index: -1;
   background-size: cover;
   background-repeat: no-repeat;
-  -o-object-fit: contain;
+  object-fit: contain;
      object-fit: contain;
   opacity: 0.9;
 }
